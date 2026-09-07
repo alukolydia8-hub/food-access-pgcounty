@@ -62,9 +62,4 @@ ANALYSIS.md           1-2 page write-up template, pre-loaded with county context
 presentation/OUTLINE.md   Slide-by-slide outline for a community presentation
 ```
 
-## Why this project (for applications/interviews)
-This ties Applied Math + Python/data science to a real, local equity
-issue, produces a public GitHub artifact, and gives you a concrete
-story for the Common App, a Posse interview, and scholarship essays:
-you identified a real gap, pulled public data, and built something a
-community partner could actually use.
+
