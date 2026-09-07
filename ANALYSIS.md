@@ -1,6 +1,6 @@
 # Mapping Food Access in Prince George's County, MD
 
-*[Your name] — Seeds of Tomorrow — [Date]*
+*Lydia Aluko*
 
 ## 1. Why Prince George's County
 
